@@ -1,16 +1,15 @@
-# portfolio
+🌌 Flutter Portfolio App
+A clean, responsive, and modern Flutter-based Portfolio App built to showcase your skills, experience, and projects — all in a minimal and aesthetic interface. Ideal for developers, freelancers, and students who want to build a mobile-first portfolio using Flutter.
 
-A new Flutter project.
+🚀 Features
+✨ Beautiful and responsive UI (Dark Theme)
 
-## Getting Started
+🧑 About Me Section
 
-This project is a starting point for a Flutter application.
+💼 Experience & Education Timeline
 
-A few resources to get you started if this is your first Flutter project:
+📂 Projects Showcase
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+📫 Contact & Social Media Links
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🛠️ Built entirely with Flutter only for Android
